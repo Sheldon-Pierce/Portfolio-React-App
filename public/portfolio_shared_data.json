@@ -9,7 +9,7 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
+          "name": "linkedin",
           "url": "https://www.linkedin.com/in/sheldon-pierce/",
           "class": "fab fa-linkedin"
         }
@@ -59,13 +59,13 @@
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        },
-        {
           "name": "MongoDB",
           "class": "devicon-mongodb-plain",
+          "level": "75"
+        },
+        {
+          "name": "git",
+          "class": "devicon-git-plain",
           "level": "75"
         }
       ]

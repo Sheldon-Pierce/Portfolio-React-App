@@ -83,37 +83,49 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "11.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "MERN Stack"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML 5",
+          "CSS 3",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Express.js",
+          "Node.js",
+          "Jquery",
+          "MongoDB",
+          "Python",
+          "React"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Mott MacDonald",
+        "title": "Hydrologist",
+        "years": "08.2021 - 07.2022",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Python",
+          "SQL"
+        ]
+      },
+      {
+        "company": "Illinois Environmental Protection Agency",
+        "title": "Environmental Protection Geologist",
+        "years": "04.2021 - 08.2021",
+        "mainTech": [
+          "Self Study"
+        ],
+        "technologies": [
+          "HTML 5",
+          "CSS 3",
+          "Express.js",
+          "Python"
         ]
       }
     ]

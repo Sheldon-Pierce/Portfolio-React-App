@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import Switch from "@brookr/react-switch";
 import Nav from 'react-bootstrap/Nav'
 import { LinkContainer } from "react-router-bootstrap";
+// import video from '../assets/mountianvideoHD.mp4'
 
 
 
@@ -115,6 +116,7 @@ class Header extends Component {
             </div>
           </div>
         </div>
+        {/* <video src={video} autoPlay ></video> */}
       </header>
     );
   }

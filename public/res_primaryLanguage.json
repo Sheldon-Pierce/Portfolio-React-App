@@ -13,7 +13,7 @@
       {
         "title": "Simon Game",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "*Volume Warning* A simple game used to test your memory. Every level a new tile is highlighted, you have to click the tiles in order from all of the previous rounds. How many levels can you get passed? Send to your friends!",
         "images": [
           "images/portfolio/animal-shelter/start_page.png",
           "images/portfolio/animal-shelter/lv1.png"
@@ -41,7 +41,7 @@
       {
         "title": "Just Juice",
         "startDate": "2023",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "Group project for a local juice company. I was responsible for general flow of the site, as well as the deisgn aspects seen on the main page.",
         "images": [
           "images/portfolio/photography/juice_home.png",
           "images/portfolio/photography/juice_menu.png",
@@ -68,16 +68,32 @@
         ]
       },
       {
-        "title": "Future Project",
+        "title": "City Explorer",
         "startDate": "2023",
-        "description": "Work in Progress!",
+        "description": "Search any city in the world and get updated live 7 day weather forecast, as well as a list of movies that include the searched cities name. Using Weatherbit API, LocationIQ API, and Movies Database API.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/adventure/homePage.png",
+          "images/portfolio/adventure/searchBar.png",
+          "images/portfolio/adventure/weatherPage.png"
         ],
-        "url": "https://github.com",
+        "url": "https://sheldon-city-explorer.netlify.app/",
         "technologies": [
-          
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          }
         ]
       }
     ],

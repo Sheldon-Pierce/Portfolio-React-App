@@ -30,13 +30,13 @@ html {
 }
 
 header {
-	background-image: url('../public/images/pexels-eberhard-grossgasteiger-1624496.jpg');
+	background-image: url(../public/images/pexels-eberhard-grossgasteiger-1287145.jpg);
 	position: relative;
 	height: 520px;
 	min-height: 450px;
 	width: 100%;
-	background-size: cover;
-	-webkit-background-size: cover;
+	background-size: contain;
+	-webkit-background-size: contain;
 	text-align: center;
 	overflow: hidden;
 	background-color: #ad9452;

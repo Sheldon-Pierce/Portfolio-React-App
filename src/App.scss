@@ -17,6 +17,7 @@ html {
 
 .title-container {
 	height: 50px;
+	font-size: 2rem;
 }
 
 .title-styles {
@@ -30,7 +31,7 @@ html {
 }
 
 header {
-	background-image: url(../public/images/pexels-eberhard-grossgasteiger-1287145.jpg);
+	background-image: url(../public/images/mountainBackground.png);
 	position: relative;
 	height: 520px;
 	min-height: 450px;
@@ -100,7 +101,7 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #12a3a3;
+	color: #b90d0d;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;

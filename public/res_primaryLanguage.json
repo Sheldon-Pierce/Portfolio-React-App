@@ -95,6 +95,44 @@
             "name": "Node.js"
           }
         ]
+      },
+      {
+        "title": "Storybook-AI",
+        "startDate": "2023",
+        "description": "Web application that utilizes Open AI APIs to create and render short stories with images based on a few inputs from the user.",
+        "images": [
+          "images/portfolio/storybook/storybook_ai_home_page.png",
+          "images/portfolio/storybook/storybook_ai_bookshelf.png",
+          "images/portfolio/storybook/storybook_ai_bookshelf_book.png",
+          "images/portfolio/storybook/storybook_ai_about.png"
+        ],
+        "url": "https://storybookai.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "fab fa-github-alt",
+            "name": "Github API"
+          },
+          {
+            "class": "far fa-shield",
+            "name": "Auth0"
+          }
+        ]
       }
     ],
     "experience": [

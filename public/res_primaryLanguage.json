@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "Hello, my name is Sheldon Pierce. I am a Software Developer from Chicago. I recently moved to Seattle with a job as a Hydrogeologist but quickly realized where my true passions were. I like to snowboard and hike like most people from the PNW. My journey into technology started when I was very young, but very recently I fell in love with coding. I've been teaching myself during the last year, but I felt like it was time to get a little more structure that a bootcamp like Code Fellows offers. I look forward to my career in Software Development and working on amazing projects!",
+      "description": "Hello, my name is Sheldon Pierce. I am originally from Chicago, but I recently moved to Seattle as a Hydrologist. During my career as a Hydrologist, I used SQL and databases to keep track of legacy groundwater data for different clients, as well as making python scripts in ArcGIS to gather data from maps to present to clients. During this time, I realized I actually loved coding more than I loved geology and was determined to make the switch towards this new career. I started teaching myself, and then decided to join a bootcamp for a little more structure and guidance. I love what I do now, and everyday presents a new challenge that I am ready to solve. I look forward to my career in software development and working on amazing projects with like minded individuals.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,16 @@
     },
     "projects": [
       {
-        "title": "Simon Game",
-        "startDate": "2022",
-        "description": "*Volume Warning* A simple game used to test your memory. Every level a new tile is highlighted, you have to click the tiles in order from all of the previous rounds. How many levels can you get passed? Send to your friends!",
+        "title": "Just Juice",
+        "startDate": "2023",
+        "description": "Ecommerce site for a local juice company. Equipped with PayPal checkout and Admin Console.",
         "images": [
-          "images/portfolio/animal-shelter/start_page.png",
-          "images/portfolio/animal-shelter/lv1.png"
+          "images/portfolio/JustJuice/JustJuiceHomePage.png",
+          "images/portfolio/JustJuice/CartPageJustJuice.png",
+          "images/portfolio/JustJuice/ProductPageJustJuice.png",
+          "images/portfolio/JustJuice/AdminConsoleJustJuice.png"
         ],
-        "url": "https://sheldon-pierce.github.io/SimonGame/",
+        "url": "https://just-juice.onrender.com/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -33,21 +35,62 @@
             "name": "CSS 3"
           },
           {
-            "class": "devicon-jquery-plain",
-            "name": "jquery"
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "fa-brands fa-redux",
+            "name": "Redux"
           }
         ]
       },
       {
-        "title": "Just Juice",
+        "title": "Storybook-AI",
         "startDate": "2023",
-        "description": "Group project for a local juice company. I was responsible for general flow of the site, as well as the deisgn aspects seen on the main page.",
+        "description": "Web application that utilizes Open AI APIs to create and render short stories with images based on a few inputs from the user.",
         "images": [
-          "images/portfolio/photography/juice_home.png",
-          "images/portfolio/photography/juice_menu.png",
-          "images/portfolio/photography/juice_cyo.png"
+          "images/portfolio/storybook/storybook_ai_home_page.png",
+          "images/portfolio/storybook/storybook_ai_bookshelf.png",
+          "images/portfolio/storybook/storybook_ai_bookshelf_book.png",
+          "images/portfolio/storybook/storybook_ai_about.png"
         ],
-        "url": "https://sheldon-pierce.github.io/just-juice/",
+        "url": "https://storybookai.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "fab fa-github-alt",
+            "name": "Github API"
+          },
+          {
+            "class": "far fa-shield",
+            "name": "Auth0"
+          }
+        ]
+      },
+      {
+        "title": "Simon Game",
+        "startDate": "2022",
+        "description": "*Volume Warning* A simple game used to test your memory. Every level a new tile is highlighted, you have to click the tiles in order from all of the previous rounds. How many levels can you get passed? Send to your friends!",
+        "images": [
+          "images/portfolio/animal-shelter/start_page.png",
+          "images/portfolio/animal-shelter/lv1.png"
+        ],
+        "url": "https://sheldon-pierce.github.io/SimonGame/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -95,51 +138,27 @@
             "name": "Node.js"
           }
         ]
-      },
-      {
-        "title": "Storybook-AI",
-        "startDate": "2023",
-        "description": "Web application that utilizes Open AI APIs to create and render short stories with images based on a few inputs from the user.",
-        "images": [
-          "images/portfolio/storybook/storybook_ai_home_page.png",
-          "images/portfolio/storybook/storybook_ai_bookshelf.png",
-          "images/portfolio/storybook/storybook_ai_bookshelf_book.png",
-          "images/portfolio/storybook/storybook_ai_about.png"
-        ],
-        "url": "https://storybookai.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-express-original",
-            "name": "Express"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.js"
-          },
-          {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
-          },
-          {
-            "class": "fab fa-github-alt",
-            "name": "Github API"
-          },
-          {
-            "class": "far fa-shield",
-            "name": "Auth0"
-          }
-        ]
       }
     ],
     "experience": [
       {
+        "company": "BOAS",
+        "title": "Shopify/Software Developer Intern",
+        "years": "04.2023 - Present",
+        "mainTech": [
+          "Shopify"
+        ],
+        "technologies": [
+          "HTML 5",
+          "React",
+          "Shopify",
+          "Optimizely"
+        ]
+      },
+      {
         "company": "Code Fellows",
         "title": "Student",
-        "years": "11.2022 - present",
+        "years": "11.2022 - 05.2023",
         "mainTech": [
           "MERN Stack"
         ],

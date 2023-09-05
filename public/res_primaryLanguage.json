@@ -37,10 +37,6 @@
           {
             "class": "devicon-react-plain",
             "name": "React"
-          },
-          {
-            "class": "fa-brands fa-redux",
-            "name": "Redux"
           }
         ]
       },
@@ -107,35 +103,6 @@
           {
             "class": "devicon-jquery-plain",
             "name": "jquery"
-          }
-        ]
-      },
-      {
-        "title": "City Explorer",
-        "startDate": "2023",
-        "description": "Search any city in the world and get updated live 7 day weather forecast, as well as a list of movies that include the searched cities name. Using Weatherbit API, LocationIQ API, and Movies Database API.",
-        "images": [
-          "images/portfolio/adventure/homePage.png",
-          "images/portfolio/adventure/searchBar.png",
-          "images/portfolio/adventure/weatherPage.png"
-        ],
-        "url": "https://sheldon-city-explorer.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "Javascript"
-          },
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-express-original",
-            "name": "Express"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "Node.js"
           }
         ]
       }

@@ -11,6 +11,33 @@
     },
     "projects": [
       {
+        "title": "Forget Me Not",
+        "startDate": "2023",
+        "description": "I have had the opportunity to help create a neurodiversity-focused platform for establishing habits using ML and AI. This app is being tested in TestFlight and will be open for beta testing soon!",
+        "images": [
+          "images/HomePage2.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-dotnetcore-plain",
+            "name": ".NET Core"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-blazor-original",
+            "name": "Blazor"
+          }
+        ]
+      },
+      {
         "title": "Just Juice",
         "startDate": "2023",
         "description": "Ecommerce site for a local juice company. Equipped with PayPal checkout and Admin Console.",
@@ -109,17 +136,50 @@
     ],
     "experience": [
       {
-        "company": "BOAS",
-        "title": "Shopify/Software Developer Intern",
-        "years": "04.2023 - Present",
+        "company": "UPLIFT Foundation",
+        "title": "Software Engineer",
+        "years": "08.2023 - Present",
         "mainTech": [
-          "Shopify"
+          "C#, .NET Maui"
         ],
         "technologies": [
+          "C#",
+          ".NET MAUI",
+          "Docker",
+          "MongoDB",
+          "Kubernetes"
+        ]
+      },
+      {
+        "company": "Code Fellows",
+        "title": "Teaching Assistant",
+        "years": "08.2023 - Present",
+        "mainTech": [
+          "Python, JavaScript"
+        ],
+        "technologies": [
+          "Python",
+          "JavaScript",
           "HTML 5",
+          "CSS 3",
           "React",
-          "Shopify",
-          "Optimizely"
+          "Express",
+          "MongoDB",
+          "Node.js"
+        ]
+      },
+      {
+        "company": "SpaceX",
+        "title": "Starlink Production Technician",
+        "years": "01.2024 - Present",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Continuous Improvement",
+          "Problem Solving",
+          "Effective Communication"
         ]
       },
       {
